@@ -1,0 +1,66 @@
+home:
+     titre: Web - Developer - Programmer
+     debut: Start now !
+     accueil: Home
+     presentation: About Me
+     competence: Web Skills
+     experience: Work Experience
+     formation: Education
+     contact: Contact
+
+about:
+      titre: A few words about me . . .
+      description_1: My name is Mohamed Camara, graduate Web Developer Programmer after following a professional retraining, today I am proud to be able to make my passion to be my profession.
+      description_2: I am a web developer with relevant experience in front and back end, I am completely captivated by Symfony Framework, my previous work experience also allowed me to develop strong commercial skills.
+      description_3: In addition to these experiences, my language skills ( French  and Dutch ) give me the ability to fully appreciate and understand the world in which i work.
+      description_4: Apart from my professionalism, I like to travel, play football, discover new technologies and entertain myself with video games.
+      titre_2: Do you want to meet me ?
+      rencontre_1: Don't hesitate to contact me, whether for work,
+      rencontre_2: to have drinks on the terrace, or to play football
+      telecharger: Download here my CV
+      reseaux: Social Networks
+
+competence:
+          titre: My skills
+          sous_titre: are available for you here
+          item_lang_en: FRENCH
+          item_lang_nl: DUTCH
+          item: TEAM SPIRIT
+
+experience:
+          titre: My Professional Experience
+          reservation: Book now !
+          place: I keep you a warm place
+          laser_annee: July 2014 - April 2016
+          laser_fonction: Bilingual Dutch Customer Service Representative
+          manorga_annee: July 2013 - February 2014
+          manorga_fonction_1: Maintenance Technician
+          manorga_fonction_2: manufacturing industrial automation
+          mondelez_annee: January 2013 - July 2013
+          atos_annee: February - November 2012
+          atos_fonction_1: Bilingual Dutch / English
+          atos_fonction_2: Backoffice commercial assistant
+          heineken_annee: February - September 2011
+
+formation:
+          titre: My Education
+          diplome_1: Bachelor of Science in
+          intitule_1: Information Technology Web & Mobile Programming
+          diplome_2: Bachelor of Science in
+          intitule_2: Foreign Language Education ( Dutch and English )
+          ou_2: faculty of foreign languages
+          ou_2.1: university Gamal Abdel Nasser - Guinée
+          intitule_3: Computer Information Technology
+          ou_3: Faculty of Computer Science and Information Technology
+          intitule_4: French Secondary School Diploma
+          intitule_4.1: High-School Degree
+          ou_4: High-School Notre Dame de Dixinn - Guinée
+
+contact:
+        titre: Contact
+        sous_titre: I will be happy to answer your questions
+        nom: Your Name
+        email: Your Email Adress
+        objet: Your Subject
+        message: Your Message
+        submit: Send Now

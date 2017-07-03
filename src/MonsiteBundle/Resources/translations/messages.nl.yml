@@ -1,0 +1,66 @@
+home:
+     titre: IT - DEVELOPER - DESIGNER
+     debut: Click Me !
+     accueil: Startpagina
+     presentation: Over Mij
+     competence: Vaardigheden
+     experience: Werkervaring
+     formation: Opleidingen
+     contact: Contact
+
+about:
+      titre: Paar woorden over mijzelf . . .
+      description_1: Mijn naam is Mohamed Camara afgestudeerd IT Developer Ontwerper na een herscholing , vandaag ik ben trots op mezelf dat ik van mijn passie mijn beroep heb kunnen maken.
+      description_2: Ik ben een web developer die  zowel Front-end als Back-end werkzaamheden kan verrichten, ik ben meer gefascineerd door de Symfony Framework, mijn werkervaringen lieten me ook een sterke commerciële vaardigheden te ontwikkelen.
+      description_3: Naast deze ervaringen, mijn talenkennis ( Engels en Frans ) geeft mij de mogelijkheid om gemakkelijk internationaal te kunnen communiceren.
+      description_4: Los van deze professionaliteit, ik hou van reizen, voetballen, nieuwe technologieën ontdekken en vermaak me met videospelletjes.
+      titre_2: Wil je me ontmoeten ?
+      rencontre_1: Aarzel dan zeker niet om contact met mij op te nemen, zowel voor het werk
+      rencontre_2: als een drankje op het terras of als een voetbal partijtje
+      telecharger: Download mijn CV hier
+      reseaux: Sociale Netwerken
+
+competence:
+          titre: Mijn vaardigheden
+          sous_titre: staan voor u al klaar
+          item_lang_en: ENGELS
+          item_lang_nl: NEDERLANDS
+          item: TEAMSAMENWERKING
+
+experience:
+          titre: Mijn Werkervaring
+          reservation: Boek nu !
+          place: Ik bewaar voor u een speciaal plekje
+          laser_annee: Juli 2014 - April 2016
+          laser_fonction: Klantenservice Medewerker NederlandseTalig
+          manorga_annee: Juli 2013 - Februari 2014
+          manorga_fonction_1: ProductieMedewerker
+          manorga_fonction_2: Industriële Automatisering
+          mondelez_annee: Januari - Juli 2013
+          atos_annee: Februari - November 2012
+          atos_fonction_1: Twee Talig Nederlands en Engels
+          atos_fonction_2: Commercieel Medewerker Binnendienst
+          heineken_annee: Februari - September 2011
+
+formation:
+          titre: Mijn Opleiding
+          diplome_1: HBO Professioneel Bachelor
+          intitule_1: IT DEVELOPER DESIGNER
+          diplome_2: HBO Academisch Bachelor
+          intitule_2: Nederlands en Engels Talig
+          ou_2: Faculteit Taal en Letteren
+          ou_2.1: Universiteit Gamal Abdel Nasser - Guinée
+          intitule_3: ICT Beheerder
+          ou_3: Faculteit Wiskunde en Informatica
+          intitule_4: voorbereidend wetenschappelijk onderwijs
+          intitule_4.1: VWO
+          ou_4: Middelbare School Notre Dame van Dixinn - Guinée
+
+contact:
+        titre: Contact
+        sous_titre: Ik zal al uw vragen beantwoorden
+        nom: Uw Naam
+        email: Uw E-Mail
+        objet: Uw Onderwerp
+        message: Uw Bericht
+        submit: Bericht Versturen

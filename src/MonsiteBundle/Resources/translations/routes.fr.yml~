@@ -1,0 +1,10 @@
+monsite_default_index: /
+home:
+     titre: Concepteur - développeur - Informatique
+     debut: Cliquez-Moi !
+     accueil: Accueil
+     presentation: Présentation
+     competence: Compétences
+     experience: Expérience Professionnelle
+     formation: Formation
+     contact: Contact

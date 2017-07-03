@@ -1,0 +1,69 @@
+home:
+     titre: Concepteur - développeur - Informatique
+     debut: Cliquez-Moi !
+     accueil: Accueil
+     presentation: à propos
+     competence: Compétences
+     experience: Expérience
+     formation: Formation
+     contact: Contact
+
+about:
+      titre: Quelques mots sur moi . . .
+      description_1: Je m'appelle Mohamed Camara diplomé Concepteur Développeur Informatique suite à une reconversion professionnelle, aujourd'hui je suis fier de pouvoir faire de ma passion mon métier.
+      description_2: Développeur web, aussi bien Front-end que Back-end, je suis plutôt captivé par le Framework Symfony, mes précédentes expériences professionnelles m'ont permis également de développer de solides compétences commerciales.
+      description_3: En plus de ces expériences, mes compétences linguistiques ( Anglais et Néerlandais ) me donnent la capacité de communiquer au niveau international.
+      description_4: En dehors de mon professionnalisme, j'aime voyager, jouer au football, découvrir les nouvelles technologies et me divertir avec les jeux vidéos.
+      titre_2: Envie de me rencontrer ?
+      rencontre_1: N'hésitez pas à me contacter, que ce soit pour du travail,
+      rencontre_2: un verre en terrasse, ou une partie de foot
+      telecharger: Télécharger ici mon CV
+      reseaux: Réseaux Sociaux
+
+competence:
+          titre: Mes Compétences
+          sous_titre: sont à votre disposition
+          item_lang_en: ANGLAIS
+          item_lang_nl: NEERLANDAIS
+          item: ESPRIT D'EQUIPE
+
+experience:
+          titre: Mes Expériences Professionnelles
+          reservation: Réservez dès maintenant !
+          place: Je vous garde une place au chaud
+          laser_annee: Juillet 2014 - Avril 2016
+          laser_fonction: Chargé de clientèle bilingue Néerlandais
+          manorga_annee: Juillet 2013 - Février 2014
+          manorga_fonction_1: Technicien en automatique
+          manorga_fonction_2: et Informatique industrielle
+          mondelez_annee: Janvier 2013 - Juillet 2013
+          atos_annee: Février - Novembre 2012
+          atos_fonction_1: Assistant Commerciale
+          atos_fonction_2: Bilingue Néerlandais et Anglais
+          heineken_annee: Février - Septembre 2011
+
+formation:
+          titre: Ma Formation
+          diplome_1: Titre professionnel Niveau 2
+          intitule_1: Concepteur Développeur Informatique
+          diplome_2: Licence
+          intitule_2: en Néerlandais et Anglais
+          ou_2: Faculté de langues étrangères appliquées
+          ou_2.1: Université Gamal Abdel Nasser - Guinée
+          intitule_3: Maintenance Informatique et Bureautique
+          ou_3: Faculté des sciences
+          intitule_4: Baccalauréat
+          intitule_4.1: Scientifique
+          ou_4: Lycée Notre Dame de Dixinn - Guinée
+
+contact:
+        titre: Contact
+        sous_titre: Je répondrai à toutes vos questions
+        nom: Votre Nom
+        email: Votre adresse mail
+        objet: Votre Objet
+        message: Votre Message
+        submit: Envoyer
+
+
+
