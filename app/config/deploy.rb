@@ -3,7 +3,7 @@ set :domain,      "camaramohamed.fr"
 set :deploy_to,   "/var/www/camaramohamed.fr"
 set :app_path,    "app"
 
-set :repository,  "git@github.com:camarama/med.git"
+set :repository,  "https://github.com/camarama/med.git"
 set :scm,         :git
 # Or: `accurev`, `bzr`, `cvs`, `darcs`, `subversion`, `mercurial`, `perforce`, or `none`
 
